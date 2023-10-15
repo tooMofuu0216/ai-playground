@@ -1,0 +1,5 @@
+export const DL_TXT_NAME = 'transcript.txt'
+export const VIDEO_UPLOAD_TYPE = 'VIDEO'
+export const DOC_UPLOAD_TYPE = 'DOC'
+export const AI_ROLE = 'AI'
+export const USER_ROLE = 'USER'
