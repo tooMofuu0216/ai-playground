@@ -1,10 +1,14 @@
 # React frontend + python backend
 
-This prototype project make use of open-source LLM(large language model), Mistral-7B-OpenOrca-GPTQ and speech-to-text model, whisper for video transcription and Retrieval-augmented generation (RAG), i.e. search and answer question on provided data source.
+This prototype project make use of:
+- open-source LLM(large language model), Mistral-7B-OpenOrca-GPTQ
+- speech-to-text model, whisper
+
+For testing video transcription and Retrieval-augmented generation (RAG), i.e. search and answer question on provided data source.
 
 ## Tech Stacks
-Frontend: React, tailwindcss, chakra-ui, 
-Backend: python, fastapi, huggingfacehub, faster-whisper
+* Frontend: React, tailwindcss, chakra-ui, 
+* Backend: python, fastapi, huggingfacehub, faster-whisper
 
 ## Features
 1. user can upload video file/youtube link for transcription
