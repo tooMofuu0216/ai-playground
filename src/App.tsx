@@ -2,7 +2,7 @@
 import Navbar from "./components/Navbar"
 import { Outlet } from "react-router-dom";
 import { ChakraProvider } from '@chakra-ui/react'
-import { AiFillGithub } from "react-icons/ai";
+// import { AiFillGithub } from "react-icons/ai";
 
 function App() {
 
